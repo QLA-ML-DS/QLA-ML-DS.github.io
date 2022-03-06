@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Lectures
+# Lectures and [Schedule](https://github.com/QLA-ML-DS/QLA-ML-DS.github.io/blob/main/DTP-DS_Schedule.pdf)
 
 ## Mathematical foundations for Data science
 
