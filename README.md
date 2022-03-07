@@ -1,6 +1,6 @@
 # dtp-ds-2022
 
-# FOUNDATIONAL METHODS IN DATA SCIENCE’ TRAINING SCHOOL
+# Training school: FOUNDATIONAL METHODS IN DATA SCIENCE
 
 This is the repository for the web pages of our training school Series on
 Machine Learning and Applications. Please visit
